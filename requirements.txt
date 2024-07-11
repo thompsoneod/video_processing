@@ -1,0 +1,6 @@
+pyav==11.0.1
+ultralytics==8.1.16
+cvat_sdk==2.11.0
+opencv-python==4.9.0.80
+python-dotenv==1.0.0
+torch==2.2.0

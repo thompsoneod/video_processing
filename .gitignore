@@ -1,0 +1,14 @@
+pipeline/
+media/*
+weights/*
+output/*
+predictions/*
+images/*
+__pycache__
+.env
+*.json
+*.pyc
+
+!media/.gitkeep
+# !weights/yolov8l.pt
+# !weights/yolov8n.pt
